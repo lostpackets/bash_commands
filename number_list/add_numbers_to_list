@@ -1,0 +1,3 @@
+#!/usr/bin/sh
+# Numbers each line of text
+nl file.txt
